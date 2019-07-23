@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teniseri2", "Teniseri2\Teniseri2.csproj", "{C52C4F1E-9CB3-400E-BE5E-1C706D95C636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotekaKlasa", "BibiiotekaKlasa\BibliotekaKlasa.csproj", "{0846E3E7-E3AB-47FC-98FF-E4CDDE8491C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C52C4F1E-9CB3-400E-BE5E-1C706D95C636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C52C4F1E-9CB3-400E-BE5E-1C706D95C636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C52C4F1E-9CB3-400E-BE5E-1C706D95C636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C52C4F1E-9CB3-400E-BE5E-1C706D95C636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0846E3E7-E3AB-47FC-98FF-E4CDDE8491C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0846E3E7-E3AB-47FC-98FF-E4CDDE8491C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0846E3E7-E3AB-47FC-98FF-E4CDDE8491C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0846E3E7-E3AB-47FC-98FF-E4CDDE8491C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA1B8A12-EAAA-4BAA-90BF-F792D6C060D2}
+	EndGlobalSection
+EndGlobal
