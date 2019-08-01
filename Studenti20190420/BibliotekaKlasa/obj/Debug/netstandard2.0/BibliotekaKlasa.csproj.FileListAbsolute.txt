@@ -1,0 +1,9 @@
+C:\Users\r103cq58\source\repos\Studenti20190420\BibliotekaKlasa\bin\Debug\netstandard2.0\BibliotekaKlasa.deps.json
+C:\Users\r103cq58\source\repos\Studenti20190420\BibliotekaKlasa\bin\Debug\netstandard2.0\BibliotekaKlasa.dll
+C:\Users\r103cq58\source\repos\Studenti20190420\BibliotekaKlasa\bin\Debug\netstandard2.0\BibliotekaKlasa.pdb
+C:\Users\r103cq58\source\repos\Studenti20190420\BibliotekaKlasa\obj\Debug\netstandard2.0\BibliotekaKlasa.csprojAssemblyReference.cache
+C:\Users\r103cq58\source\repos\Studenti20190420\BibliotekaKlasa\obj\Debug\netstandard2.0\BibliotekaKlasa.csproj.CoreCompileInputs.cache
+C:\Users\r103cq58\source\repos\Studenti20190420\BibliotekaKlasa\obj\Debug\netstandard2.0\BibliotekaKlasa.AssemblyInfoInputs.cache
+C:\Users\r103cq58\source\repos\Studenti20190420\BibliotekaKlasa\obj\Debug\netstandard2.0\BibliotekaKlasa.AssemblyInfo.cs
+C:\Users\r103cq58\source\repos\Studenti20190420\BibliotekaKlasa\obj\Debug\netstandard2.0\BibliotekaKlasa.dll
+C:\Users\r103cq58\source\repos\Studenti20190420\BibliotekaKlasa\obj\Debug\netstandard2.0\BibliotekaKlasa.pdb
